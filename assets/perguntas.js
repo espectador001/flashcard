@@ -1,0 +1,15 @@
+criarCartao(
+    progamação,
+    pergunta,
+    resposta
+)
+criarCartao(
+    categoria,
+    pergunta,
+    resposta
+)
+criarCartao(
+    categoria,
+    pergunta,
+    resposta
+)
