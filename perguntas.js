@@ -47,7 +47,7 @@ criaCartao(
 criaCartao(
     'projeto de vida',
     'projeto de vida ajuda no que?',
-    'Um projeto de vida ajuda a planejar o futuro, tomar decisões mais conscientes sobre carreira e estudos, e a desenvolver o autoconhecimento e habilidades socioemocionais. Ele fornece um senso de propósito, orienta as escolhas do dia a dia e aumenta a motivação, ajudando a lidar com a auto-responsabilidade e a alcançar objetivos pessoais e profissionais. '
+    'Um projeto de vida ajuda a planejar o futuro, tomar decisões mais conscientes sobre carreira e estudos, e a desenvolver o autoconhecimento e habilidades socioemocionais. '
 )
 
 criaCartao(
@@ -59,7 +59,7 @@ criaCartao(
 criaCartao(
     'biologia',
     'qual a primeira lei de mendel?',
-    'A primeira lei de Mendel, também conhecida como Lei da Segregação dos Fatores, estabelece que cada característica hereditária é determinada por um par de fatores (genes) que se separam durante a formação dos gametas. Dessa forma, cada gameta recebe apenas um fator do par, e o indivíduo descendente herda um fator de cada genitor. '
+    'A primeira lei de Mendel, também conhecida como Lei da Segregação dos Fatores, estabelece que cada característica hereditária é determinada por um par de fatores (genes) que se separam durante a formação dos gametas. '
 )
 
 criaCartao(
@@ -70,7 +70,7 @@ criaCartao(
 criaCartao(
     'educação financeira',
     'o que é o método 50 30 20?',
-    'O método 50/30/20 é uma regra de orçamento que divide a renda mensal líquida (após impostos) em três categorias: 50% para necessidades essenciais (como aluguel, alimentação e transporte), 30% para gastos com desejos (como lazer, hobbies e restaurantes) e 20% para prioridades financeiras (como poupança, investimentos e quitação de dívidas). Ele ajuda a organizar as finanças pessoais de forma prática, buscando equilibrar gastos obrigatórios, prazeres e planejamento futuro. '
+    'O método 50/30/20 é uma regra de orçamento que divide a renda mensal líquida (após impostos) em três categorias: 50% para necessidades essenciais (como aluguel, alimentação e transporte), 30% para gastos com desejos (como lazer, hobbies e restaurantes) e 20% para prioridades financeiras (como poupança, investimentos e quitação de dívidas). '
 )
 
 criaCartao(
